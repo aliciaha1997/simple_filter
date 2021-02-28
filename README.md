@@ -1,4 +1,4 @@
-# simple_filter
+# Simple Filter Application
 
 ## About
 This is a basic image processing project utilising cv2 and numpy to apply filters onto an image and save it.
